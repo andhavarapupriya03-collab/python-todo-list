@@ -29,3 +29,6 @@ python-todo-list/
 ├── todo_app.py
 ├── .gitignore
 └── README.md
+
+## 📸 Application Screenshot
+<img width="503" height="530" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/3d5a0514-4ec5-4dda-ae33-dc9bbdc6b406" />
